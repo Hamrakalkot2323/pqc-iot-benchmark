@@ -19,3 +19,7 @@ liboqs-source/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Local test/demo outputs
+results/raw/test_results.csv
+results/summary/test_summary.csv

@@ -1,0 +1,3 @@
+algorithm,iterations,keygen_median_ms,encaps_median_ms,decaps_median_ms,public_key_bytes,ciphertext_bytes
+ML-KEM-512,100,0.032549999999999996,0.03815,0.0441,800,768
+ML-KEM-768,100,0.04945,0.0552,0.0632,1184,1088

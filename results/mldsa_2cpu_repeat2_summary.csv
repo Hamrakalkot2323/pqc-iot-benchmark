@@ -1,0 +1,7 @@
+algorithm,keygen_median_ms,sign_median_ms,verify_median_ms
+ML-DSA-44,0.0813,,
+ML-DSA-44,,0.263,
+ML-DSA-44,,,0.0883
+ML-DSA-65,0.1556,,
+ML-DSA-65,,0.39165,
+ML-DSA-65,,,0.1447

@@ -1,0 +1,3 @@
+algorithm,iterations,keygen_median_ms,sign_median_ms,verify_median_ms,public_key_bytes,signature_bytes
+ML-DSA-44,100,0.1336,0.39465,0.1363,1312,2420
+ML-DSA-65,100,0.2129,0.57725,0.1856,1952,3309

@@ -1,0 +1,2 @@
+profile,benchmark,exit_code,memory_limit_bytes,peak_memory_bytes,cpu_usage_usec,cpu_nr_periods,cpu_nr_throttled,cpu_throttled_usec
+C0,benchmark_kem.py,0,max,68075520,461342,0,0,0

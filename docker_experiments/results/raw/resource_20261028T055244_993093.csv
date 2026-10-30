@@ -1,0 +1,2 @@
+profile,benchmark,exit_code,memory_limit_bytes,peak_memory_bytes
+C3,benchmark_kem.py,0,134217728,64462848

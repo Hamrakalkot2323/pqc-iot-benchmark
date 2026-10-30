@@ -1,0 +1,2 @@
+profile,benchmark,exit_code,memory_limit_bytes,peak_memory_bytes,cpu_usage_usec,cpu_nr_periods,cpu_nr_throttled,cpu_throttled_usec
+C3,benchmark_mldsa.py,0,134217728,15036416,378951,14,15,1036458

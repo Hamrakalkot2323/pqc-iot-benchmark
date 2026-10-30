@@ -1,0 +1,49 @@
+
+{
+  "profiles": [
+    {
+      "id": "C0",
+      "name": "Unconstrained baseline",
+      "cpus": null,
+      "memory_mib": null,
+      "memory_swap_mib": null
+    },
+    {
+      "id": "C1",
+      "name": "Moderate constraint",
+      "cpus": 1.0,
+      "memory_mib": 512,
+      "memory_swap_mib": 512
+    },
+    {
+      "id": "C2",
+      "name": "High constraint",
+      "cpus": 0.5,
+      "memory_mib": 256,
+      "memory_swap_mib": 256
+    },
+    {
+      "id": "C3",
+      "name": "Severe constraint",
+      "cpus": 0.25,
+      "memory_mib": 128,
+      "memory_swap_mib": 128
+    }
+  ],
+  "warmup_trials": 5,
+  "recorded_trials_per_run": 30,
+  "algorithms": {
+    "kem": [
+      "ML-KEM-512",
+      "ML-KEM-768"
+    ],
+    "signature": [
+      "ML-DSA-44",
+      "ML-DSA-65"
+    ],
+    "classical": [
+      "RSA-2048",
+      "ECDSA-P256-SHA256"
+    ]
+  }
+}
